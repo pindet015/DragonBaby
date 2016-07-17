@@ -1,0 +1,2 @@
+[2016-03-16 2:24:44.942364] [info] Generated URL to Dragonpay Payment Switch. URL: http://test.dragonpay.ph/Pay.aspx?merchantid=JPTEST&txnid=P0001&amount=1999.99&ccy=PHP&description=Test+transaction&email=test%40mailcatch.com&digest=b4dcca1222e65a518eba682816f6a713d99eebe1
+[2016-03-16 3:04:03.919056] [info] Generated URL to Dragonpay Payment Switch. URL: http://test.dragonpay.ph/Pay.aspx?merchantid=JPTEST&txnid=&amount=&ccy=PHP&description=&email=&digest=263f673b966057b5b31f93be41a2558bab7d9641
